@@ -1,4 +1,4 @@
-![b站banner](https:////i0.hdslb.com/bfs/activity-plat/static/20190409/7d3fbe1b994526c1fae2b51bb7f2b633/S114GfcFE.png)
+![b站banner](https://github.com/zhzhch335/downloadAllBilibili/blob/main/img/0_banner.png?raw=true)
 # 哔哩哔哩视频缓存工具
 这个工具可以用来缓存某个哔哩哔哩up主下所有的视频，分P的也可以哦
 
